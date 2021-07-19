@@ -10,6 +10,7 @@ public class ArithmeticOperator {
 		System.out.println(a*b);//50  
 		System.out.println(a/b);//2  
 		System.out.println(a%b);//0  
+		System.out.println(b-a);//-5  
 		}
 
 }
